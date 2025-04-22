@@ -1,0 +1,38 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.main { 
+    display: flex;
+    background-color: rgb(255, 0, 0);
+    height: 100vh;
+    
+}
+.contactos {
+    display: flex;
+    background-color: aqua;
+    flex: 0 0 30rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+.principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(72, 255, 127);
+    flex: 1 0 auto;
+    text-align: center;
+
+    .princip01 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: salmon;
+        flex-direction: column;
+        height: 40rem;
+        width: 40rem;
+    }
+    
+}
