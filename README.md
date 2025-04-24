@@ -1,8 +1,6 @@
 <h1> <strong>Desafio 01 del modulo 2 Flex Avanzado</strong> </h1>
 <br>
-<h2>Resultado Final en Github pages</h2>
-<br>
-<a href="https://gotharo.github.io/Desafio-02_Modulo-02/">Resultado Final Pagina en Flex</a>
+<a href="https://gotharo.github.io/Desafio-02_Modulo-02/"><h2>Resultado Final en Github pages</h2></a>
 <br>
 <br>
 
