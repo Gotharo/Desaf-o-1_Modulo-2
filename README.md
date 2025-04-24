@@ -4,4 +4,7 @@
 <br>
 <a href="https://gotharo.github.io/Desafio-02_Modulo-02/">Resultado Final Pagina en Flex</a>
 <br>
-![desafio_01-modulo_02](https://github.com/user-attachments/assets/cc9eebb5-3db5-46ee-ae8d-0652ab5dcab7)
+
+
+
+![desafio_01-modulo_02](https://github.com/user-attachments/assets/94df63b2-3f7d-4cf5-83bb-e537c18207a9)
